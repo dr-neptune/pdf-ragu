@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "llmextract"
+version = "0.1.0"
+description = ""
+authors = ["dr-neptune <mrose4@worcester.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.1.4"
+openai = "^1.4.0"
+langchain = "^0.0.350"
+python-dotenv = "^1.0.0"
+pypdf = "^3.17.2"
+faiss-cpu = "^1.7.4"
+tiktoken = "^0.5.2"
+cytoolz = "^0.12.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

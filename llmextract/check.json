@@ -1,0 +1,97 @@
+{
+  "Current assets":
+  {
+    "Cash and cash equivalents": "$ 25,913",
+    "Marketable securities": "$40,388",
+    "Accounts receivable, net": "$23,186",
+    "Inventories": "$3,956",
+    "Vendor non-trade receivables": "$25,809",
+    "Other current assets": "$12,087",
+    "Total current assets": "$131,339"},
+  "Non-current assets":
+  {
+    "Marketable securities": "$170,799",
+    "Property, plant and equipment, net": "$41,304",
+    "Other non-current assets": "$22,283",
+    "Total non-current assets": "$234,386"
+  },
+  "Total assets": "$ 365,725",
+  "Current liabilities":
+  {
+    "Accounts payable": "$ 55,888",
+    "Other current liabilities": "$32,687",
+    "Deferred revenue": "$7,543",
+    "Commercial paper": "$11,964",
+    "Term debt": "$8,784",
+    "Total current liabilities": "$116,866"
+  },
+  "Non-current liabilities":
+  {
+    "Deferred revenue": "$2,797",
+    "Term debt": "$93,735",
+    "Other non-current liabilities": "$45,180",
+    "Total non-current liabilities": "$141,712"
+  },
+  "Total liabilities": "$258,578",
+  "Shareholders’ equity":
+  {
+    "Common stock and additional paid-in capital": "$40,201",
+    "Retained earnings": "$70,400",
+    "Accumulated other comprehensive income/(loss)": "($3,454)",
+    "Total shareholders’ equity": "$107,147"
+  },
+  "Total liabilities and shareholders’ equity": "$ 365,725"
+}
+
+
+{
+"assets":
+  {
+    "current_assets":
+      {
+        "cash_and_cash_equivalents": 25913,
+        "marketable_securities": 40388,
+        "accounts_receivable_net": 23186,
+        "inventories": 3956,
+        "vendor_non-trade_receivables": 25809,
+        "other_current_assets": 12087,
+        "total_current_assets": 131339
+      },
+    "non_current_assets":
+      {
+        "marketable_securities": 170799,
+        "property_plant_and_equipment_net": 41304,
+        "other_non_current_assets": 22283,
+        "total_non_current_assets": 234386
+      },
+    "total_assets": 365725
+  },
+"liabilities_and_shareholders_equity":
+  {
+    "current_liabilities":
+      {
+        "accounts_payable": 55888,
+        "other_current_liabilities": 32687,
+        "deferred_revenue": 7543,
+        "commercial_paper": 11964,
+        "term_debt": 8784,
+        "total_current_liabilities": 116866
+      },
+    "non_current_liabilities":
+      {
+        "deferred_revenue": 2797,
+        "term_debt": 93735,
+        "other_non_current_liabilities": 45180,
+        "total_non_current_liabilities": 141712
+      },
+    "total_liabilities": 258578,
+    "shareholders_equity":
+      {
+        "common_stock_and_additional_paid_in_capital": 40201,
+        "retained_earnings": 70400,
+        "accumulated_other_comprehensive_income/(loss)": -3454,
+        "total_shareholders_equity": 107147
+      },
+    "total_liabilities_and_shareholders_equity": 365725
+  }
+}

@@ -1,0 +1,4 @@
+* DONE Get example PDF(s)
+* STARTED scrape them
+* place them in a vector DB
+* implement RAG
